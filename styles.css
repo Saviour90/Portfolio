@@ -54,6 +54,11 @@ h1  {
     margin: 0 auto;
     color: #be3144;
 }
+.p1{
+    margin: 0 auto;
+    color: aqua;
+    font-size: 20px;
+}
 
 .main {
     display: flex;
